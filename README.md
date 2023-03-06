@@ -14,11 +14,11 @@ The model consists of an encoder, a decoder, a vector quantization module and a 
 
 The code for VQGan is divided into two parts:
 
-* train folder
+* train file
 
 * Encoder_decoder_disc_VQ file
 
-### train folder
+### train file
 
 This folder contains the code for training VQGan on your own dataset. You need to add your dataset to the data folder `called Dataset`.
 
