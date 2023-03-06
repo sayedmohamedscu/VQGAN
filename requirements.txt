@@ -1,0 +1,9 @@
+torch==1.9.0
+numpy==1.19.5
+torchvision==0.10.0
+matplotlib==3.4.2
+opencv-python-headless==4.5.4.58
+numpy==1.21.5
+imutils==0.5.4
+matplotlib==3.5.1
+torchsummary
